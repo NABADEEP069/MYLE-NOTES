@@ -233,3 +233,25 @@ nav {
         /* width: 150px; */
       }
 }
+
+/* our vision */
+
+.our-vision {
+  display: flex;
+  padding: 10px 10px;
+  color: black;
+  height: 200px;
+  width: 50%;
+  margin-top: 150px;
+  border: 2px solid red;
+}
+.our-vision p{
+  /* color: black; */
+  /* height: auto; */
+  display: flex;
+  
+  align-items: center;
+  width: 50%;
+  margin-top: 150px;
+  border: 2px solid rgb(19, 3, 3);
+}
